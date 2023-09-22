@@ -24,7 +24,7 @@ const developers = [
   {
     name: 'Dhamodharan K',
     jobTitle: 'Team Member',
-    description: "Styling with Tailwind CSS: Aashik utilized Tailwind CSS to style the app. This utility-first CSS framework helped create a clean and responsive design, enhancing the app's visual appeal.",
+    description: "Styling with Tailwind CSS: I have utilized Tailwind CSS to style the app. This utility-first CSS framework helped create a clean and responsive design, enhancing the app's visual appeal.",
     imgURL: '/assets/dhamo.jpg',
     profileURL: 'https://www.linkedin.com/in/dhamo-dharan-020354282', // Add the profile URL here
   },
